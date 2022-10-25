@@ -2,6 +2,8 @@
 
 Somewhere between builder and breaker, And sometimes build thing to break another things.
 
+https://badges.pufler.dev/repos/{ichirohn}
+
 🌱 I’m currently learning Go-Lang
 
 📫 Reach me : ichirohn@gmail.com
