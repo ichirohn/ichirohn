@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **i like ramen 🍜 and sushi 🍣**
 
+- I love connecting with different people so if you want to say hi. I'll be happy to meet you more! 😊 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maagicschoolbus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maagicschoolbus" height="30" width="40" /></a>
