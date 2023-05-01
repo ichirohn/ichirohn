@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Anything , if i knew it i answer it**
 
-- 📫 How to reach me **ichirohn@gmail.com**
+- 📫 How to reach me **muhmmadichiro@gmail.com**
 
 - ⚡ Fun fact **i like ramen 🍜 and sushi 🍣**
 
