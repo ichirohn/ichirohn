@@ -2,7 +2,7 @@
 <h3 align="center">Somewhere between builder and breaker, And sometimes build thing to break another things.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Go-Lang, Java , JS , React JS!!**
+- 🌱 I’m currently learning **Go-Lang!!!**
 
 - 💬 Ask me about **Anything , if i knew it i answer it**
 
