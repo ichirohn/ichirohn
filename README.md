@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ichiro</h1>
 <h3 align="center">Somewhere between builder and breaker, And sometimes build thing to break another things.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/102/102565.gif">
 
 - 🌱 I’m currently learning **Go-Lang!!!**
 
 - 💬 Ask me about **Anything , if i knew it i answer it**
 
-- 📫 How to reach me **muhmmadichiro@gmail.com**
+- 📫 How to reach me **ichiromuhammad99@gmail.com**
 
 - ⚡ Fun fact **i like ramen 🍜 and sushi 🍣**
 
